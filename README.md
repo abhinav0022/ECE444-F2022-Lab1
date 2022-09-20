@@ -12,3 +12,9 @@ Name: Abhinav Sanjeeva Prasad
 **Activity 3**
 
 ![](images/Activity3.png)
+![](images/Activity3_1.png)
+
+**Activity 5**
+
+![](images/Activity5_1.png)
+![](images/Activity5_2.png)

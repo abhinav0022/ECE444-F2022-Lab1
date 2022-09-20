@@ -22,3 +22,7 @@ Name: Abhinav Sanjeeva Prasad
 **Activity 6**
 
 https://github.com/abhinav0022/ECE444-F2022-EP
+
+**Activity 7**
+![](images/Activity7_1.png)
+![](images/Activity7_2.png)

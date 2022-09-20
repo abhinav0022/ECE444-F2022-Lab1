@@ -26,3 +26,7 @@ https://github.com/abhinav0022/ECE444-F2022-EP
 **Activity 7**
 ![](images/Activity7_1.png)
 ![](images/Activity7_2.png)
+
+**Activity 8**
+![](images/Activity8_1.png)
+![](images/Activity8_2.png)

@@ -14,6 +14,14 @@ Name: Abhinav Sanjeeva Prasad
 ![](images/Activity3.png)
 ![](images/Activity3_1.png)
 
+**Activity 4**
+
+Partner's Repo: https://github.com/mymyxtran/ECE444-F2022-Lab1
+Note: Changes made in the develop branch.
+
+![](images/Activity4_1.png)
+![](images/Activity4_2.png)
+
 **Activity 5**
 
 ![](images/Activity5_1.png)
